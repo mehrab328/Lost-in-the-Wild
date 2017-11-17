@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 9b5e9b2d71d994543abd520957319a35
+timeCreated: 1458981236
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - healthBarEmpty: {fileID: 2800000, guid: 0c144eca0337a0147913179bed22d98e, type: 3}
+  - healthBarFull: {fileID: 2800000, guid: a715ad505741ddf4db2e86df7ed43a0a, type: 3}
+  - hungerBarEmpty: {fileID: 2800000, guid: 0c144eca0337a0147913179bed22d98e, type: 3}
+  - hungerBarFull: {fileID: 2800000, guid: 96579143ebfa9404994631718de7752d, type: 3}
+  - thirstBarEmpty: {fileID: 2800000, guid: 0c144eca0337a0147913179bed22d98e, type: 3}
+  - thirstBarFull: {fileID: 2800000, guid: 4e787cc283926ff48a2d09683bc01e44, type: 3}
+  - staminaBarEmpty: {fileID: 2800000, guid: 0c144eca0337a0147913179bed22d98e, type: 3}
+  - staminaBarFull: {fileID: 2800000, guid: b809c68b629f54147a940a3a3738ffca, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
